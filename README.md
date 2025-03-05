@@ -1,5 +1,1 @@
-# Discord_bot
-cd C:/Users/Vipul Jindal/Desktop
-git clone https://github.com/JindalNavya/discord_bot.git 
-cd discord_bot 
-touch bot.py
+This code is written to make a bot on discord. Here I have used two files that are reqiurement files having packages imported and other is environmental file which helps in calling of token of the bot. Here specific functions have been enabled like sending messages, sound systems, mentioning everyone etc. As a beginner, many functions could not be executed but I learned much through this project. 
